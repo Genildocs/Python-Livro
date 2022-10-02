@@ -1,4 +1,3 @@
-import datetime
 import time
 
 print('Faça um programa para escrever a contagem regressiva do lançamento de um foguete.'
