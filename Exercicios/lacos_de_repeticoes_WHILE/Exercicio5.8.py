@@ -6,7 +6,7 @@ print('Assim, 4 × 5 = 5 + 5 + 5 + 5 = 4 + 4 + 4 + 4 + 4.')
 print('-'*30)
 numero1=int(input('Digite um numero: '))
 numero2=int(input('Digite outro numero: '))
-x = 1
+x = 2
 r = 0
 while x <= numero2:
     r = r + numero1
